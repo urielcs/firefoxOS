@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" 
+	xlmns:gap="http://phonegap.com/ns/1.0"
+	id="com.phonegap.primeraplicacion"
+	version="1.0.0">
+
+<name>Primera lista en FFOS</name>
+<description>Primera aplicacion que ya esta lista en FirefoxOS, solo faltan las imágenes</description>
+<author>uriel</author>
+
+</widget>
